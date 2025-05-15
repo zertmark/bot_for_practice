@@ -1,7 +1,7 @@
 # 🤖 Telegram Bot для управления продуктами
 
 [![Python](https://img.shields.io/badge/Python-3.13%2B-blue)](https://python.org)
-[![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-API%2020.0-green)](https://core.telegram.org/bots/api)
+[![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-API%2020.0-green)](https://core.telegram.org/bots/api) 
 
 Универсальный бот для автоматизации бизнес-процессов. Управляйте складом, отслеживайте финансовые показатели и генерируйте отчеты прямо из Telegram!
 
@@ -84,13 +84,18 @@ docker build -t finance-bot .
 docker run -d --name mybot finance-bot
 ```
 
-## Ссылки
+## Ссылки 
 Все подробности реализации такого бота самостоятельно, а также структура этого проекта и его компонентов, баз данных, можно посмотреть в нашей [**WIKI**](https://github.com/zertmark/bot_for_practice/wiki)
+
 ---
 ### **Авторы**
+
+
 #### **Github**
-- [@Zertmark](https://github.com/zertmark)
-- [@skeatlox](https://github.com/skeatlox)
+- [Zertmark](https://github.com/zertmark)
+- [skeatlox](https://github.com/skeatlox)
+
+
 #### **Телеграм**: 
 - [@Zertmark](https://t.me/zertmark)
 - [@skeatlox](https://t.me/skeatlox)
