@@ -104,7 +104,7 @@ class Bot(AsyncTeleBot):
         name, remaining, cost_1 = self.stackCursor.executeReadCommand(f"SELECT name, remaining, cost_1 FROM {self.stackCursor.dataBaseTableName} WHERE product_id = ?;", (id,)).fetchall()[0]
         month_id, current_month_revenue = self.financeCursor.getMonthProfitID(self.financeCursor.getCurrentMonth())
         if self.isSalesNumberIncorrect(remaining, sales_number):
-            return 
+            return ""
 
         self.stackCursor.setRowInfo(id, "remaining", int(remaining)-int(sales_number))
         self.financeCursor.setRowInfo(month_id, "real_profit", current_month_revenue + (cost_1 * int(sales_number)))
