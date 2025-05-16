@@ -31,13 +31,15 @@
 
 ## 🛠 Технологический стек
 ### Используемые технологии
-- [Python](https://www.python.org/) 
-- [SQLite](https://docs.python.org/3/library/sqlite3.html)
+- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
+- [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://docs.python.org/3/library/sqlite3.html)
 - Telegram Bot API:
     - [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/)
-    - [API Telegram](https://core.telegram.org/) 
-- [xlsxwriter](https://xlsxwriter.readthedocs.io/)
-- [aiohttp](https://docs.aiohttp.org/en/stable/index.html)
+    - [![SQLite](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://core.telegram.org/) 
+- [![xlsxwriter](https://img.shields.io/badge/xlsxwriter-_-green?style=flat&logo=libreofficecalc&logoSize=auto&labelColor=green)
+](https://xlsxwriter.readthedocs.io/)
+- [![aiohttp](https://img.shields.io/badge/aiohttp-_-blue?style=flat&logo=aiohttp&logoSize=auto&labelColor=blue)](https://docs.aiohttp.org/en/stable/index.html)
+ 
 ## 🚀 Быстрый старт
 
 ### Предварительные требования
@@ -70,7 +72,7 @@ python FinanceBot.py
 
 ## 📚 Список команд
 
-### Основные операции (смотрите Wiki для всех команд)
+### Основные операции (смотрите [**WIKI**](https://github.com/zertmark/bot_for_practice/wiki) для всех команд)
 | Команда | Описание | Пример |
 |---------|----------|--------|
 | `/склад` | Показать все товары | `/склад` |
