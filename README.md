@@ -34,7 +34,7 @@
 - [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
 - [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://docs.python.org/3/library/sqlite3.html)
 - Telegram Bot API:
-    - [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/)
+    - [![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-_-%232AABEE?logo=telegram&logoColor=white&labelColor=%232AABEE)](https://pypi.org/project/pyTelegramBotAPI/)
     - [![SQLite](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://core.telegram.org/) 
 - [![xlsxwriter](https://img.shields.io/badge/xlsxwriter-_-green?style=flat&logo=libreofficecalc&logoSize=auto&labelColor=green)
 ](https://xlsxwriter.readthedocs.io/)
