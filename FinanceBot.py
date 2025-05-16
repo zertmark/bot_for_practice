@@ -123,5 +123,5 @@ class Main:
         asyncio.run(self.bot.polling(non_stop=False, allowed_updates=["message"], interval=3, timeout=20))
     
 if __name__ == "__main__":
-    main = Main(token="5766970401:AAGTrrHEL3BIO7sj7T2oYGMxXB-FsdF6zmA")
+    main = Main(token="")
     main.runBot()

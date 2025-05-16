@@ -101,11 +101,8 @@ docker run -d --name mybot finance-bot
 
 
 #### **Github**
-- [Zertmark](https://github.com/zertmark)
-- [skeatlox](https://github.com/skeatlox)
-
-
-#### **Телеграм**: 
-- [@Zertmark](https://t.me/zertmark)
-- [@skeatlox](https://t.me/skeatlox)
+[![Static Badge](https://img.shields.io/badge/Zertmark-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/zertmark/)
+[![Static Badge](https://img.shields.io/badge/Skeatlox-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/skeatlox/)  
+[![SQLite](https://img.shields.io/badge/Zertmark-26A5E4?logo=telegram&logoColor=white)](https://t.me/zertmark) 
+[![SQLite](https://img.shields.io/badge/Skeatlox-26A5E4?logo=telegram&logoColor=white)](https://t.me/skeatlox) 
 
