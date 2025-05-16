@@ -99,8 +99,6 @@ docker run -d --name mybot finance-bot
 ---
 ### **Авторы**
 
-
-#### **Github**
 [![Static Badge](https://img.shields.io/badge/Zertmark-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/zertmark/)
 [![Static Badge](https://img.shields.io/badge/Skeatlox-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/skeatlox/)  
 [![SQLite](https://img.shields.io/badge/Zertmark-26A5E4?logo=telegram&logoColor=white)](https://t.me/zertmark) 
